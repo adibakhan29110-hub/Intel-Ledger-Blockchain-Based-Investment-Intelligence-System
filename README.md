@@ -1,3 +1,8 @@
+
+<img width="461" height="197" alt="image" src="https://github.com/user-attachments/assets/ac7fc6cf-551c-4dee-8ea9-a553e68a8840" />
+
+
+
 # 🧠 Intel Ledger  
 ### Blockchain-Based Investment Intelligence System  
 
